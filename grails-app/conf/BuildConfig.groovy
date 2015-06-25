@@ -66,6 +66,7 @@ grails.project.dependency.resolution = {
         compile ":quartz:1.0.2"
         compile ":mail:1.0.7"
         compile ":excel-export:0.2.1"
+        compile ":scaffolding:2.1.2"
 
         // plugins needed at runtime but not for compilation
         runtime ":hibernate4:4.3.6.1" // or ":hibernate:3.6.10.18"
